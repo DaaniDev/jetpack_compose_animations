@@ -108,7 +108,7 @@ fun JobScreen() {
             color = Color.White,
             modifier = Modifier.align(Alignment.CenterHorizontally),
             textAlign = TextAlign.Center,
-            fontSize = 25.sp
+            fontSize = 20.sp
         )
     }
 }
