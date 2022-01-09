@@ -10,7 +10,7 @@ If you like it don't forget to give a star.
 [Webview_jetpack_Compose](https://github.com/DaaniDev/jetpack_compose_animations/tree/master/app/src/main/java/com/daanidev/compose/ui/webview)
 
 # SwipeToDelete Jetpack Compose LazyColumn
-[Webview_jetpack_Compose](https://github.com/DaaniDev/jetpack_compose_animations/tree/master/app/src/main/java/com/daanidev/compose/ui/listview)
+[SwipeToDelete_jetpack_Compose_LazyColumn](https://github.com/DaaniDev/jetpack_compose_animations/tree/master/app/src/main/java/com/daanidev/compose/ui/listview)
 
 
 ![alt text](https://github.com/DaaniDev/jetpack_compose_animations/blob/master/images/bottom_navigation/swipetodimiss.png?raw=true)
