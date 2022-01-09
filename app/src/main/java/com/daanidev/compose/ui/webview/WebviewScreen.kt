@@ -19,7 +19,7 @@ class WebviewScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         setContent{
-           urlIntent(webUrl)
+          urlIntent(url = webUrl)
         }
     }
 
