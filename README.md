@@ -19,3 +19,9 @@ If you like it don't forget to give a star.
 [Bottom Navigation Jetpack Compose](https://github.com/DaaniDev/jetpack_compose_animations/tree/master/app/src/main/java/com/daanidev/compose/bottomnav)
 
 ![alt text](https://github.com/DaaniDev/jetpack_compose_animations/blob/master/images/bottom_navigation/Screenshot_1637497996.png?raw=true)
+
+# Exoplayer Jetpack Compose
+[Exoplayer Jetpack Compose](https://github.com/DaaniDev/jetpack_compose_animations/tree/master/app/src/main/java/com/daanidev/compose/ui/exoplayer)
+
+![alt text](https://github.com/DaaniDev/jetpack_compose_animations/blob/master/images/bottom_navigation/exoplayer_output.png?raw=true)
+
