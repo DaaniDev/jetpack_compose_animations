@@ -63,4 +63,12 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
+
+    //Exoplayer
+    implementation "com.google.android.exoplayer:exoplayer:2.17.1"
+
+    //Accompanist
+    implementation 'com.google.accompanist:accompanist-insets:0.22.0-rc'
+    implementation 'com.google.accompanist:accompanist-pager:0.22.0-rc'
+    implementation "androidx.glance:glance-appwidget:1.0.0-SNAPSHOT"
 }

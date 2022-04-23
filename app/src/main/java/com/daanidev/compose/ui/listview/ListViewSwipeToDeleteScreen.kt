@@ -2,6 +2,7 @@ package com.daanidev.compose.ui.listview
 
 import android.os.Bundle
 import android.util.Log
+import android.widget.RatingBar
 import android.widget.Toast
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
@@ -64,6 +65,7 @@ class ListViewSwipeToDeleteScreen : AppCompatActivity() {
         }
 
 
+
         val inputvalue = remember { mutableStateOf(TextFieldValue()) }
 
 
@@ -96,9 +98,11 @@ class ListViewSwipeToDeleteScreen : AppCompatActivity() {
                     singleLine = true
                 )
 
+
                 Button(
                     onClick = {
                         notesList.add(NotesItem(id++,inputvalue.value.text))
+
                     },
                     modifier = Modifier
                         .weight(0.2f)
@@ -195,6 +199,14 @@ class ListViewSwipeToDeleteScreen : AppCompatActivity() {
             Text(
                 text = item.title,modifier = Modifier.wrapContentSize(),fontSize = TextUnit(value = 16f,type = TextUnitType.Sp))
 
+        }
+    }
+
+    @Composable
+    fun ratingBar(){
+
+        Row(modifier = Modifier.wrapContentSize()) {
+            
         }
     }
 }
